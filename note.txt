@@ -1,0 +1,21 @@
+Thông tin hiện trạng:
+
+Hiện tại khách hàng đang có một trang sheet quản lý điểm, xây dựng một website quản lý điểm học sinh.
+
+Tone chủ đạo vàng đen.
+
+1 trang phụ huynh có thể nhập tên học sinh và ngày test để hiện lên điểm của học sinh, đánh giá của giáo viên. 
+
+2 trang báo bài nhập ngày hiện lên bài ngày đó.
+
+3 giáo viên sẽ nhập liệu về thông tin học sinh trên thang điểm 10, đánh giá học viên theo từng giai đoạn.
+
+4 có biểu đồ đánh giá cho chọn 2 giai đoạn hiện cột thông tin đánh giá.
+
+5 Phân quyền tài khoản cho giáo viên.
+
+6 Phần tìm phuh huynh có tìm thông tin theo ngày báo.
+
+7 Kinh phí 3tr.
+
+8 Deliver 1 week.
